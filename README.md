@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rishabh
-- 👀 Studying and doing some useless projects rn.
+- 👋 Hi, I’m Akshat Bhatt
+<!-- 👀 Studying and doing some useless projects rn.
 - 🌱 Languages: Python, C, C++, Java, JS, HTML, CSS
 - 💞️ DM me for collabs
 - 📫 How to reach me, Discord: ria.4 or email: rishabhjakhar04@gmail.com
@@ -25,3 +25,5 @@
 <img src="https://streak-stats.demolab.com?user=AwesomeSam9523&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 <img src="https://awesomesam.vercel.app/api/top-langs?username=Rishabh4Jakhar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=1" height="150" alt="language graph"/>
 </div>
+>
+-->
